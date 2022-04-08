@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prayagdhaduk
-- 👀 I’m interested in coding I want to be fullstack developer.
+- 👀 I want to be a fullstack developer.
 - 🌱 I’m currently learning java script , react js , vue js. 
 - 📫 How to reach me dhadukprayag1@gmail.com
 <!---
